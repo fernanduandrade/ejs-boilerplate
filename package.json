@@ -1,0 +1,27 @@
+{
+  "name": "ejs-boilerplate",
+  "version": "1.0.0",
+  "description": "Um simples boilerplate para aplicação com ejs",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernanduandrade/ejs-boilerplate.git"
+  },
+  "keywords": ["ejs", "node", "express"],
+  "author": "Luiz Fernando de Andrade Abreu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernanduandrade/ejs-boilerplate/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/fernanduandrade/ejs-boilerplate#readme"
+}
